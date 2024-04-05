@@ -1,4 +1,4 @@
-# nlw-html-css-expert
+# NLW-EXPERT-html-css-javascript
 
 
 Neste NWL vamos contruir um Quiz utilizando as ferramentas:
